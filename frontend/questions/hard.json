@@ -1,0 +1,1122 @@
+[
+  {
+    "question": "In the Enigma machine used by Nazi Germany, which component was responsible for the daily changing key settings via plugboard and rotor configurations?",
+    "options": [
+      "The Uhr box",
+      "The reflector (Umkehrwalze)",
+      "The plugboard (Steckerbrett)",
+      "The ring settings (Ringstellung)"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which 18th-century philosopher is credited with the phrase 'Dare to know' (Sapere aude) as the motto of the Enlightenment?",
+    "options": [
+      "Voltaire",
+      "Jean-Jacques Rousseau",
+      "Immanuel Kant",
+      "Denis Diderot"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In geology, the Mohorovičić discontinuity marks the boundary between which two layers of the Earth?",
+    "options": [
+      "Inner core and outer core",
+      "Outer core and mantle",
+      "Mantle and crust",
+      "Lithosphere and asthenosphere"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Dragon's Triangle', a region noted for maritime disappearances similar to the Bermuda Triangle, is located near which country?",
+    "options": [
+      "Philippines",
+      "Japan",
+      "Indonesia",
+      "Australia"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which ancient script, deciphered by Michael Ventris, is considered the earliest written form of Greek?",
+    "options": [
+      "Linear A",
+      "Linear B",
+      "Cypriot syllabary",
+      "Phoenician alphabet"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In the context of quantum computing, what does 'NISQ' stand for?",
+    "options": [
+      "Non-Interfering Superconducting Qubits",
+      "Noisy Intermediate-Scale Quantum",
+      "Neutral Ion State Quantum",
+      "Non-Invasive Spin Qubit"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which treaty, signed in 1967, governs international space law and declares celestial bodies not subject to national appropriation?",
+    "options": [
+      "The Moon Agreement",
+      "The Outer Space Treaty",
+      "The Rescue Agreement",
+      "The Liability Convention"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The economic concept of 'Baumol's cost disease' primarily explains rising costs in which sector?",
+    "options": [
+      "Manufacturing",
+      "Technology",
+      "Services with low productivity growth",
+      "Commodity extraction"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which author wrote the novel 'The Unbearable Lightness of Being'?",
+    "options": [
+      "José Saramago",
+      "Milan Kundera",
+      "Franz Kafka",
+      "Italo Calvino"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In biochemistry, which enzyme is responsible for adding phosphate groups to proteins, a key regulatory mechanism?",
+    "options": [
+      "Kinase",
+      "Phosphatase",
+      "Polymerase",
+      "Ligase"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'St. Bartholomew's Day Massacre' of 1572 was a pivotal event in the wars of religion in which country?",
+    "options": [
+      "England",
+      "Holy Roman Empire",
+      "France",
+      "Spain"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which artist created the large-scale environmental artwork 'Spiral Jetty' in the Great Salt Lake?",
+    "options": [
+      "Walter De Maria",
+      "Michael Heizer",
+      "Robert Smithson",
+      "James Turrell"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the name of the hypothetical supercontinent that existed before the breakup of Pangaea, proposed by John Tuzo Wilson?",
+    "options": [
+      "Rodinia",
+      "Columbia",
+      "Vaalbara",
+      "Gondwana"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which principle in international law, established in the 1940s, holds that individuals can be held accountable for crimes against humanity even if acting under state orders?",
+    "options": [
+      "Act of State doctrine",
+      "Doctrine of Sovereign Immunity",
+      "Nuremberg Principle",
+      "Pinochet Principle"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The mathematical concept of 'God's number' refers to the maximum number of moves required to solve which puzzle optimally?",
+    "options": [
+      "Tower of Hanoi",
+      "15-puzzle",
+      "Rubik's Cube",
+      "Königsberg bridge problem"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In Byzantine history, what was the primary cause of the 'Nika riots' in 532 AD?",
+    "options": [
+      "A theological dispute over icons",
+      "Heavy taxation and political factionalism",
+      "A volcanic winter causing famine",
+      "A disputed imperial succession"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which chemical element, essential for plant growth, is named after the Greek word for 'light-bearer'?",
+    "options": [
+      "Phosphorus",
+      "Helium",
+      "Lanthanum",
+      "Luciferin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Nootka Sound Controversy' (1789-1794) nearly led to war between which two powers over Pacific Northwest territory?",
+    "options": [
+      "Britain and Russia",
+      "Spain and Britain",
+      "United States and France",
+      "Portugal and the Netherlands"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In classical rhetoric, which term describes the use of a mild or indirect word to replace one considered too harsh or blunt?",
+    "options": [
+      "Litotes",
+      "Euphemism",
+      "Periphrasis",
+      "Synecdoche"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which mathematician proved that the sum of the reciprocals of the prime numbers diverges?",
+    "options": [
+      "Euclid",
+      "Leonhard Euler",
+      "Carl Friedrich Gauss",
+      "Bernhard Riemann"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Kalmar Union' was a personal union that joined the kingdoms of Denmark, Norway, and which other country?",
+    "options": [
+      "Sweden",
+      "Finland",
+      "Iceland",
+      "Scotland"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In the Standard Model of particle physics, which boson is responsible for mediating the strong nuclear force?",
+    "options": [
+      "Photon",
+      "W and Z bosons",
+      "Gluon",
+      "Higgs boson"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Baconian method' is a precursor to which modern scientific methodology?",
+    "options": [
+      "Deductive reasoning",
+      "Hypothetico-deductive method",
+      "Empiricism and inductive reasoning",
+      "Falsificationism"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which ancient Mesoamerican civilization is credited with creating the earliest known writing system in the Americas?",
+    "options": [
+      "Aztec",
+      "Maya",
+      "Olmec",
+      "Zapotec"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "In finance, what does the 'Vickrey auction' refer to?",
+    "options": [
+      "A descending-price auction",
+      "A sealed-bid auction where the highest bidder wins but pays the second-highest bid",
+      "An auction with a reserve price set by the seller",
+      "A simultaneous multiple-round auction"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which 20th-century composer pioneered the development of musique concrète?",
+    "options": [
+      "Karlheinz Stockhausen",
+      "John Cage",
+      "Pierre Schaeffer",
+      "Igor Stravinsky"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Siege of Masada' (73-74 CE) was a final stand by Jewish zealots against which empire?",
+    "options": [
+      "Seleucid Empire",
+      "Roman Empire",
+      "Parthian Empire",
+      "Byzantine Empire"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the term for the phenomenon where a massive rotating body, like Earth, drags spacetime around it, as predicted by general relativity?",
+    "options": [
+      "Lense-Thirring effect",
+      "Shapiro time delay",
+      "Gravitational lensing",
+      "Geodetic effect"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which constitutional principle, established in the 1803 U.S. Supreme Court case Marbury v. Madison, allows courts to review and invalidate laws?",
+    "options": [
+      "Judicial restraint",
+      "Stare decisis",
+      "Judicial review",
+      "Separation of powers"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The literary technique of 'stream of consciousness' is most associated with which author's novel 'Mrs. Dalloway'?",
+    "options": [
+      "James Joyce",
+      "Virginia Woolf",
+      "William Faulkner",
+      "Marcel Proust"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In ecology, what does the 'Red Queen hypothesis' attempt to explain?",
+    "options": [
+      "The evolution of sex",
+      "Competitive exclusion",
+      "Ecological succession",
+      "Island biogeography"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Russo-Japanese War' (1904-1905) was concluded by which treaty?",
+    "options": [
+      "Treaty of Portsmouth",
+      "Treaty of Shimonoseki",
+      "Treaty of Saint Petersburg",
+      "Treaty of Kanagawa"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which mathematician formulated the 'incompleteness theorems', demonstrating inherent limitations in formal axiomatic systems?",
+    "options": [
+      "Alan Turing",
+      "Bertrand Russell",
+      "Kurt Gödel",
+      "David Hilbert"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In the context of ancient Indian philosophy, which school is known for its theory of atomism and materialist worldview?",
+    "options": [
+      "Nyaya",
+      "Vaisheshika",
+      "Charvaka",
+      "Samkhya"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which hormone, produced by the parathyroid glands, regulates calcium and phosphate levels in the blood?",
+    "options": [
+      "Calcitonin",
+      "Parathyroid hormone",
+      "Calcitriol",
+      "Thyroxine"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Strange Situation' is a classic procedure developed by Mary Ainsworth to study what?",
+    "options": [
+      "Cognitive development in infants",
+      "Attachment styles in children",
+      "Language acquisition",
+      "Moral reasoning"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which 17th-century conflict, ending with the Peace of Westphalia, profoundly shaped the modern state system?",
+    "options": [
+      "The Seven Years' War",
+      "The Thirty Years' War",
+      "The War of the Spanish Succession",
+      "The Eighty Years' War"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In computer networking, what does the 'CAP theorem' state about distributed data stores?",
+    "options": [
+      "They can only guarantee two out of three: Consistency, Availability, and Partition Tolerance",
+      "They require Cryptographic Authentication for Privacy",
+      "They must have Centralized Administration and Protocol",
+      "They cannot provide both Confidentiality and Authenticity simultaneously"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Book of Kells' is an illuminated manuscript containing the four Gospels, created primarily by which monastic tradition?",
+    "options": [
+      "Benedictine",
+      "Cistercian",
+      "Celtic",
+      "Franciscan"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which political theorist wrote 'The Origins of Totalitarianism', analyzing Nazism and Stalinism?",
+    "options": [
+      "Hannah Arendt",
+      "Isaiah Berlin",
+      "Karl Popper",
+      "Eric Hoffer"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In astronomy, what is the name of the hypothetical cloud of icy planetesimals believed to be the source of long-period comets?",
+    "options": [
+      "Kuiper Belt",
+      "Scattered Disc",
+      "Oort Cloud",
+      "Asteroid Belt"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Shibboleth' incident, as described in the Book of Judges, involved the pronunciation of which word to identify fleeing Ephraimites?",
+    "options": [
+      "Shibboleth",
+      "Jephthah",
+      "Gilead",
+      "Mizpah"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which economist developed the theory of 'comparative advantage', a fundamental principle in international trade?",
+    "options": [
+      "Adam Smith",
+      "David Ricardo",
+      "John Maynard Keynes",
+      "Thomas Malthus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Kashmir conflict' primarily involves which two countries?",
+    "options": [
+      "India and Pakistan",
+      "India and China",
+      "Pakistan and Afghanistan",
+      "China and Pakistan"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In genetics, what is the term for a phenomenon where the effect of one gene is modified by one or more other genes?",
+    "options": [
+      "Pleiotropy",
+      "Epistasis",
+      "Codominance",
+      "Penetrance"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which 19th-century explorer is credited with being the first European to reach Lake Tanganyika?",
+    "options": [
+      "Richard Francis Burton",
+      "John Hanning Speke",
+      "David Livingstone",
+      "Henry Morton Stanley"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The philosophical 'Ship of Theseus' paradox primarily explores problems related to what?",
+    "options": [
+      "Ethics and moral responsibility",
+      "Personal identity and persistence over time",
+      "The nature of reality and perception",
+      "Causality and determinism"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which military strategist wrote 'The Art of War', a treatise that has influenced Eastern and Western military thinking?",
+    "options": [
+      "Sun Tzu",
+      "Carl von Clausewitz",
+      "Niccolò Machiavelli",
+      "Miyamoto Musashi"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In art history, which movement was characterized by an emphasis on emotion, individualism, and glorification of the past and nature?",
+    "options": [
+      "Romanticism",
+      "Neoclassicism",
+      "Realism",
+      "Baroque"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Pax Mongolica' facilitated the travels of which Venetian merchant, whose writings later introduced Europeans to Central Asia and China?",
+    "options": [
+      "Marco Polo",
+      "Niccolò de' Conti",
+      "Giovanni da Pian del Carpine",
+      "William of Rubruck"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which theorem in topology states that you cannot comb a hairy ball flat without creating a cowlick?",
+    "options": [
+      "Brouwer fixed-point theorem",
+      "Hairy ball theorem",
+      "Jordan curve theorem",
+      "Banach-Tarski paradox"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Great Vowel Shift' was a major series of changes in the pronunciation of which language?",
+    "options": [
+      "French",
+      "German",
+      "English",
+      "Spanish"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In international relations, the 'Thucydides Trap' refers to the inherent danger when a rising power threatens to displace what?",
+    "options": [
+      "An existing hegemon",
+      "A multilateral alliance system",
+      "A regional balance of power",
+      "A nuclear-armed state"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which neuroscientist, known for his work on memory, described the case study of patient H.M.?",
+    "options": [
+      "Oliver Sacks",
+      "Brenda Milner",
+      "Eric Kandel",
+      "Santiago Ramón y Cajal"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Cahokia' mounds, the largest pre-Columbian settlement north of Mexico, are located near which modern U.S. city?",
+    "options": [
+      "St. Louis",
+      "Memphis",
+      "Chicago",
+      "Kansas City"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which physicist proposed the 'many-worlds interpretation' of quantum mechanics?",
+    "options": [
+      "Niels Bohr",
+      "Hugh Everett III",
+      "Erwin Schrödinger",
+      "David Bohm"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Dutch East India Company' is considered the world's first what?",
+    "options": [
+      "Multinational corporation",
+      "Central bank",
+      "Joint-stock company",
+      "Sovereign wealth fund"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In music theory, which term describes a chord progression where the root motion descends by fifth?",
+    "options": [
+      "Circle progression",
+      "Plagal cadence",
+      "Deceptive cadence",
+      "Chromatic mediant"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which ancient library, one of the largest and most significant in the ancient world, was located in the city of Alexandria?",
+    "options": [
+      "The Royal Library of Ashurbanipal",
+      "The Library of Pergamum",
+      "The Library of Alexandria",
+      "The Villa of the Papyri"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Fermi paradox' is the apparent contradiction between the high probability of extraterrestrial civilizations and what?",
+    "options": [
+      "The lack of evidence for them",
+      "The laws of physics as we know them",
+      "The difficulty of interstellar travel",
+      "The Drake equation"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which 16th-century council of the Catholic Church is considered the embodiment of the Counter-Reformation?",
+    "options": [
+      "Council of Trent",
+      "Second Vatican Council",
+      "Council of Constance",
+      "Council of Florence"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In computer science, what does the 'P versus NP problem' ask?",
+    "options": [
+      "Whether every problem whose solution can be quickly verified can also be solved quickly",
+      "Whether polynomial time algorithms are more efficient than non-polynomial ones",
+      "Whether non-deterministic Turing machines are more powerful than deterministic ones",
+      "Whether probabilistic algorithms can solve problems deterministic ones cannot"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Taiping Rebellion', one of the deadliest conflicts in history, took place primarily in which country?",
+    "options": [
+      "India",
+      "China",
+      "Japan",
+      "Korea"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which artist, a leading figure of the Dada movement, created the 'readymade' sculpture 'Fountain' (a urinal)?",
+    "options": [
+      "Man Ray",
+      "Marcel Duchamp",
+      "Francis Picabia",
+      "Kurt Schwitters"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Marshall Plan' was formally known as what?",
+    "options": [
+      "The European Recovery Program",
+      "The Truman Doctrine",
+      "The Bretton Woods Agreement",
+      "The North Atlantic Treaty"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In linguistics, which language family includes Finnish, Estonian, and Hungarian?",
+    "options": [
+      "Turkic",
+      "Uralic",
+      "Balto-Slavic",
+      "Indo-European"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which theorem in number theory, proved by Andrew Wiles, states that no three positive integers a, b, and c satisfy the equation a^n + b^n = c^n for any integer n greater than 2?",
+    "options": [
+      "Goldbach's conjecture",
+      "Fermat's Last Theorem",
+      "Riemann Hypothesis",
+      "Twin prime conjecture"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Balfour Declaration' of 1917 expressed British support for the establishment of a 'national home' for which people?",
+    "options": [
+      "The Armenians",
+      "The Kurds",
+      "The Jewish people",
+      "The Arabs in Palestine"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which cognitive bias describes the tendency to rely too heavily on the first piece of information offered when making decisions?",
+    "options": [
+      "Confirmation bias",
+      "Anchoring bias",
+      "Availability heuristic",
+      "Hindsight bias"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Manhattan Project' developed the first atomic bombs during World War II at a secret laboratory in which location?",
+    "options": [
+      "Oak Ridge, Tennessee",
+      "Hanford Site, Washington",
+      "Los Alamos, New Mexico",
+      "Chicago, Illinois"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which philosopher wrote 'The Phenomenology of Spirit', introducing concepts like the master-slave dialectic?",
+    "options": [
+      "Immanuel Kant",
+      "Georg Wilhelm Friedrich Hegel",
+      "Arthur Schopenhauer",
+      "Søren Kierkegaard"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In immunology, what is the term for the phenomenon where a vaccine provides protection not only to the vaccinated individual but also to the unvaccinated community?",
+    "options": [
+      "Passive immunity",
+      "Herd immunity",
+      "Cross-immunity",
+      "Immunological memory"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Congress of Vienna' (1814-1815) was convened primarily to do what after the Napoleonic Wars?",
+    "options": [
+      "Punish France severely",
+      "Redraw the political map of Europe and restore stability",
+      "Create a permanent European parliament",
+      "Establish free trade across the continent"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which element is a transuranic actinide, first synthesized by bombarding uranium-238 with alpha particles?",
+    "options": [
+      "Neptunium",
+      "Plutonium",
+      "Americium",
+      "Curium"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Suez Crisis' of 1956 involved the nationalization of the Suez Canal by which leader?",
+    "options": [
+      "Gamal Abdel Nasser",
+      "Anwar Sadat",
+      "King Farouk",
+      "Hosni Mubarak"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In chess, which opening is characterized by the moves 1.e4 e5 2.Nf3 Nc6 3.Bb5?",
+    "options": [
+      "Italian Game",
+      "Sicilian Defense",
+      "Ruy Lopez",
+      "French Defense"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which ancient Greek historian is known as the 'Father of History'?",
+    "options": [
+      "Thucydides",
+      "Herodotus",
+      "Xenophon",
+      "Polybius"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Doppler effect' explains the change in frequency of waves due to what?",
+    "options": [
+      "The medium through which the wave travels",
+      "The relative motion between the source and the observer",
+      "The amplitude of the wave",
+      "The interference of multiple waves"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which 20th-century architect is famous for the phrase 'less is more' and designed the Seagram Building in New York?",
+    "options": [
+      "Frank Lloyd Wright",
+      "Le Corbusier",
+      "Ludwig Mies van der Rohe",
+      "Walter Gropius"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Kellogg-Briand Pact' of 1928 was an international agreement that aimed to do what?",
+    "options": [
+      "Limit naval armaments",
+      "Renounce war as an instrument of national policy",
+      "Establish the League of Nations",
+      "Create a European economic union"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In ecology, what does the term 'trophic cascade' refer to?",
+    "options": [
+      "The flow of energy through an ecosystem",
+      "The hierarchical levels of the food chain",
+      "Indirect effects that ripple through an ecosystem when a key species is removed or added",
+      "The cycling of nutrients between biotic and abiotic components"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which 19th-century novel, subtitled 'The Modern Prometheus', tells the story of Victor Frankenstein?",
+    "options": [
+      "Frankenstein",
+      "The Strange Case of Dr Jekyll and Mr Hyde",
+      "Dracula",
+      "The Island of Doctor Moreau"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Rashomon effect' refers to the phenomenon of what?",
+    "options": [
+      "Collective amnesia following a traumatic event",
+      "Conflicting interpretations of the same event by different individuals",
+      "The tendency to conform to group opinion",
+      "The distortion of memory over time"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which country was known as 'Ceylon' until 1972?",
+    "options": [
+      "Myanmar",
+      "Sri Lanka",
+      "Malaysia",
+      "Bangladesh"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In the context of cryptography, which cipher, cracked by Allied cryptanalysts, was used by the German military in World War II?",
+    "options": [
+      "Vigenère cipher",
+      "Enigma machine",
+      "Lorenz cipher",
+      "One-time pad"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Mercator projection' is a cylindrical map projection that distorts which feature as one moves away from the equator?",
+    "options": [
+      "Longitude",
+      "Area",
+      "Shape",
+      "Direction"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which 17th-century scientist is known for his laws of planetary motion?",
+    "options": [
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Nicolaus Copernicus",
+      "Tycho Brahe"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Prague Spring' was a period of political liberalization in 1968 in which country?",
+    "options": [
+      "Poland",
+      "Hungary",
+      "Czechoslovakia",
+      "East Germany"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In Greek mythology, who was the first human woman, created by Hephaestus on the instructions of Zeus?",
+    "options": [
+      "Athena",
+      "Pandora",
+      "Helen of Troy",
+      "Persephone"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which 20th-century art movement, founded by Tristan Tzara, sought to reject logic and embrace chaos and irrationality?",
+    "options": [
+      "Surrealism",
+      "Dada",
+      "Futurism",
+      "Cubism"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Battle of Actium' (31 BCE) was a decisive naval conflict between the forces of Octavian and which other Roman leader?",
+    "options": [
+      "Julius Caesar",
+      "Mark Antony",
+      "Pompey the Great",
+      "Marcus Lepidus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which mathematician developed the 'Cartesian coordinate system', unifying algebra and geometry?",
+    "options": [
+      "Pierre de Fermat",
+      "René Descartes",
+      "Isaac Newton",
+      "Gottfried Wilhelm Leibniz"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Concordat of Worms' (1122) resolved a conflict between the papacy and the Holy Roman Empire over what?",
+    "options": [
+      "The right to appoint bishops (investiture controversy)",
+      "The taxation of church lands",
+      "The Crusades",
+      "The location of the papal seat"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In economics, what does 'Gresham's law' state?",
+    "options": [
+      "Bad money drives out good",
+      "Supply creates its own demand",
+      "The invisible hand guides markets",
+      "There is no such thing as a free lunch"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which 20th-century physicist formulated the 'uncertainty principle', a fundamental concept in quantum mechanics?",
+    "options": [
+      "Werner Heisenberg",
+      "Max Planck",
+      "Paul Dirac",
+      "Niels Bohr"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Kievan Rus' was a medieval state that is considered a cultural predecessor of which modern countries?",
+    "options": [
+      "Poland, Lithuania, and Belarus",
+      "Russia, Ukraine, and Belarus",
+      "Russia, Poland, and the Baltic states",
+      "Ukraine, Romania, and Moldova"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In the context of computer graphics, which algorithm is commonly used for hidden surface determination?",
+    "options": [
+      "Ray tracing",
+      "Z-buffering",
+      "Phong shading",
+      "Bézier curve calculation"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which 19th-century English novelist wrote 'Middlemarch', often considered one of the greatest novels in the English language?",
+    "options": [
+      "Charles Dickens",
+      "George Eliot",
+      "Thomas Hardy",
+      "Jane Austen"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Hundred Years' War' was primarily a conflict between which two kingdoms?",
+    "options": [
+      "England and France",
+      "England and Spain",
+      "France and the Holy Roman Empire",
+      "France and Burgundy"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which biological process describes the synthesis of RNA from a DNA template?",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Reverse transcription"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Schlieffen Plan' was the German military strategy at the outset of which war?",
+    "options": [
+      "World War I",
+      "World War II",
+      "Franco-Prussian War",
+      "Seven Weeks' War"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which 20th-century artist is known for his 'drip painting' technique and works like 'Number 17A'?",
+    "options": [
+      "Jackson Pollock",
+      "Mark Rothko",
+      "Willem de Kooning",
+      "Andy Warhol"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Warsaw Pact' was a collective defense treaty established in 1955 among which group of countries?",
+    "options": [
+      "Western European nations",
+      "Soviet-aligned Eastern European nations",
+      "Non-aligned movement nations",
+      "NATO member states"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In geology, which scale is used to measure the hardness of minerals?",
+    "options": [
+      "Richter scale",
+      "Mohs scale",
+      "Beaufort scale",
+      "Saffir-Simpson scale"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which 18th-century Scottish economist wrote 'An Inquiry into the Nature and Causes of the Wealth of Nations'?",
+    "options": [
+      "David Ricardo",
+      "John Stuart Mill",
+      "Adam Smith",
+      "Thomas Malthus"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Bataan Death March' was a forced transfer of prisoners of war by the Imperial Japanese Army during which conflict?",
+    "options": [
+      "World War I",
+      "World War II",
+      "Korean War",
+      "Russo-Japanese War"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which logical fallacy involves attacking the character of the person making an argument rather than the argument itself?",
+    "options": [
+      "Straw man",
+      "Ad hominem",
+      "False dilemma",
+      "Slippery slope"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Spanish Inquisition' was established in 1478 by the Catholic Monarchs of which two kingdoms?",
+    "options": [
+      "Castile and Aragon",
+      "Navarre and León",
+      "Portugal and Castile",
+      "Aragon and Granada"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In computer science, what does the 'halting problem' prove about algorithms?",
+    "options": [
+      "That some problems are undecidable by a Turing machine",
+      "That all algorithms can be optimized to run in polynomial time",
+      "That recursive algorithms are more powerful than iterative ones",
+      "That parallel computing can solve any problem"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which 20th-century philosopher wrote 'The Second Sex', a foundational text of contemporary feminism?",
+    "options": [
+      "Simone de Beauvoir",
+      "Betty Friedan",
+      "Judith Butler",
+      "Gloria Steinem"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Nuremberg Trials' were a series of military tribunals held after World War II to prosecute major war criminals of which regime?",
+    "options": [
+      "Fascist Italy",
+      "Imperial Japan",
+      "Nazi Germany",
+      "Vichy France"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which 19th-century chemist is known for his periodic table of elements?",
+    "options": [
+      "John Dalton",
+      "Antoine Lavoisier",
+      "Dmitri Mendeleev",
+      "Robert Boyle"
+    ],
+    "correct": 2
+  }
+]

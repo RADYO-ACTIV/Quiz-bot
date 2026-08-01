@@ -1,0 +1,2092 @@
+[
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Ag",
+      "Fe",
+      "Au",
+      "Cu"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who was the first president of the United States?",
+    "options": [
+      "Thomas Jefferson",
+      "George Washington",
+      "Abraham Lincoln",
+      "John Adams"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "London",
+      "Berlin",
+      "Paris",
+      "Madrid"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "Charles Dickens",
+      "Jane Austen",
+      "William Shakespeare",
+      "Mark Twain"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      "Gold",
+      "Diamond",
+      "Iron",
+      "Quartz"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "options": [
+      "Indian Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the first book of the Bible?",
+    "options": [
+      "Exodus",
+      "Genesis",
+      "Leviticus",
+      "Numbers"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is 2 + 2?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What does 'CPU' stand for?",
+    "options": [
+      "Computer Personal Unit",
+      "Central Processing Unit",
+      "Central Peripheral Unit",
+      "Control Processing Unit"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": [
+      "Won",
+      "Yuan",
+      "Yen",
+      "Dollar"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the most widely spoken language in the world?",
+    "options": [
+      "English",
+      "Spanish",
+      "Mandarin Chinese",
+      "Hindi"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who discovered America?",
+    "options": [
+      "Leif Erikson",
+      "Christopher Columbus",
+      "Amerigo Vespucci",
+      "Vasco da Gama"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the closest star to Earth?",
+    "options": [
+      "Proxima Centauri",
+      "Sun",
+      "Sirius",
+      "Alpha Centauri"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Canberra",
+      "Melbourne",
+      "Perth"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "options": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck",
+      "Harper Lee"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the square root of 64?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who founded Microsoft?",
+    "options": [
+      "Steve Jobs",
+      "Bill Gates",
+      "Mark Zuckerberg",
+      "Larry Page"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the primary color of the sky on a clear day?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What does GDP stand for?",
+    "options": [
+      "General Demand Price",
+      "Gross Demand Product",
+      "Gross Domestic Product",
+      "General Domestic Price"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the traditional clothing of Japan?",
+    "options": [
+      "Sari",
+      "Hanbok",
+      "Kimono",
+      "Cheongsam"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "When did World War II end?",
+    "options": [
+      "1944",
+      "1946",
+      "1945",
+      "1947"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "How many bones are in the adult human body?",
+    "options": [
+      "196",
+      "206",
+      "216",
+      "226"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which desert is the largest in the world?",
+    "options": [
+      "Arabian Desert",
+      "Gobi Desert",
+      "Sahara Desert",
+      "Antarctic Desert"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the name of the wizard in 'The Lord of the Rings'?",
+    "options": [
+      "Dumbledore",
+      "Merlin",
+      "Gandalf",
+      "Saruman"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "How many sides does a triangle have?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the main function of a router?",
+    "options": [
+      "To store data",
+      "To connect networks",
+      "To display graphics",
+      "To process sound"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who composed the 'Moonlight Sonata'?",
+    "options": [
+      "Mozart",
+      "Beethoven",
+      "Bach",
+      "Chopin"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who is known as the father of economics?",
+    "options": [
+      "Karl Marx",
+      "Adam Smith",
+      "John Keynes",
+      "Milton Friedman"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which country is known for inventing pizza?",
+    "options": [
+      "France",
+      "Greece",
+      "Italy",
+      "United States"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who was the first man to walk on the moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "John Glenn"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the speed of light?",
+    "options": [
+      "150,000 km/s",
+      "300,000 km/s",
+      "500,000 km/s",
+      "1,000,000 km/s"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the highest mountain in the world?",
+    "options": [
+      "K2",
+      "Mount Everest",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who is the author of 'To Kill a Mockingbird'?",
+    "options": [
+      "Truman Capote",
+      "Harper Lee",
+      "John Grisham",
+      "Stephen King"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the value of π (pi) approximately?",
+    "options": [
+      "2.71",
+      "3.16",
+      "3.14",
+      "1.62"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What does 'HTML' stand for?",
+    "options": [
+      "Hyperlink Text Management Language",
+      "Hypertext Markup Language",
+      "High-Level Text Machine Language",
+      "Hyper Transfer Markup Language"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the name of the artist who cut off his ear?",
+    "options": [
+      "Picasso",
+      "Rembrandt",
+      "Van Gogh",
+      "Monet"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the central bank of the United States?",
+    "options": [
+      "Bank of America",
+      "Federal Reserve",
+      "Treasury Department",
+      "Internal Revenue Service"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the largest religion in the world?",
+    "options": [
+      "Islam",
+      "Hinduism",
+      "Christianity",
+      "Buddhism"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which empire was ruled by Julius Caesar?",
+    "options": [
+      "Greek Empire",
+      "Roman Empire",
+      "Egyptian Empire",
+      "Persian Empire"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "options": [
+      "CO2",
+      "H2O",
+      "NaCl",
+      "O2"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which country has the most population?",
+    "options": [
+      "India",
+      "Indonesia",
+      "China",
+      "United States"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In which century did William Shakespeare live?",
+    "options": [
+      "15th",
+      "17th",
+      "16th",
+      "18th"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is 10 multiplied by 5?",
+    "options": [
+      "15",
+      "25",
+      "50",
+      "100"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What year was the first iPhone released?",
+    "options": [
+      "2005",
+      "2009",
+      "2007",
+      "2010"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who is the current president of the United States?",
+    "options": [
+      "Donald Trump",
+      "Joe Biden",
+      "Barack Obama",
+      "George W. Bush"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is inflation?",
+    "options": [
+      "A decrease in money supply",
+      "A general increase in prices",
+      "An increase in employment",
+      "A decrease in interest rates"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the national sport of Canada?",
+    "options": [
+      "Lacrosse",
+      "Baseball",
+      "Hockey",
+      "Football"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What was the name of the ship that brought the Pilgrims to America?",
+    "options": [
+      "Santa Maria",
+      "Mayflower",
+      "Titanic",
+      "Endeavour"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What planet is known for its rings?",
+    "options": [
+      "Jupiter",
+      "Uranus",
+      "Saturn",
+      "Neptune"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Rio de Janeiro",
+      "Brasilia",
+      "Sao Paulo",
+      "Buenos Aires"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the first name of the author Twain?",
+    "options": [
+      "Mark",
+      "John",
+      "Samuel",
+      "William"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is 12 times 12?",
+    "options": [
+      "121",
+      "132",
+      "144",
+      "156"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": [
+      "Universal Resource Link",
+      "Uniform Resource Locator",
+      "Unified Resource Locator",
+      "Uniform Reference Link"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who painted 'Starry Night'?",
+    "options": [
+      "Claude Monet",
+      "Edvard Munch",
+      "Vincent van Gogh",
+      "Paul Cézanne"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "How many members are in the U.S. Senate?",
+    "options": [
+      "50",
+      "435",
+      "100",
+      "538"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the currency of the European Union?",
+    "options": [
+      "Pound",
+      "Franc",
+      "Euro",
+      "Mark"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the traditional dance of Brazil?",
+    "options": [
+      "Tango",
+      "Flamenco",
+      "Samba",
+      "Waltz"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the freezing point of water in Celsius?",
+    "options": [
+      "32",
+      "0",
+      "100",
+      "-10"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": [
+      "Liver",
+      "Heart",
+      "Skin",
+      "Lungs"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "options": [
+      "Amazon River",
+      "Yangtze River",
+      "Nile River",
+      "Mississippi River"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "options": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "J.K. Rowling"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 4, 6, 8, ...?",
+    "options": [
+      "9",
+      "12",
+      "10",
+      "14"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who is the CEO of Tesla?",
+    "options": [
+      "Jeff Bezos",
+      "Elon Musk",
+      "Tim Cook",
+      "Larry Page"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the name of the famous sculpture by Michelangelo?",
+    "options": [
+      "The Thinker",
+      "David",
+      "Venus de Milo",
+      "Pietà"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who was the first African American president of the United States?",
+    "options": [
+      "Martin Luther King Jr.",
+      "Barack Obama",
+      "Jesse Jackson",
+      "Colin Powell"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the term for a period of economic decline?",
+    "options": [
+      "Inflation",
+      "Deflation",
+      "Recession",
+      "Depression"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which country is known for the Taj Mahal?",
+    "options": [
+      "Pakistan",
+      "India",
+      "Bangladesh",
+      "Sri Lanka"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "How many continents are there?",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What is the largest mammal?",
+    "options": [
+      "Elephant",
+      "Giraffe",
+      "Blue Whale",
+      "Polar Bear"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": [
+      "Charlotte Bronte",
+      "Emily Bronte",
+      "Jane Austen",
+      "Louisa May Alcott"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "How many degrees are in a right angle?",
+    "options": [
+      "45",
+      "180",
+      "90",
+      "360"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the most popular social media platform?",
+    "options": [
+      "Instagram",
+      "Facebook",
+      "TikTok",
+      "Twitter"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which music genre originated in Jamaica?",
+    "options": [
+      "Jazz",
+      "Blues",
+      "Reggae",
+      "Salsa"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "options": [
+      "St. Petersburg",
+      "Kiev",
+      "Moscow",
+      "Minsk"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who wrote 'The Wealth of Nations'?",
+    "options": [
+      "Karl Marx",
+      "David Ricardo",
+      "Adam Smith",
+      "John Maynard Keynes"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the most consumed beverage in the world after water?",
+    "options": [
+      "Coffee",
+      "Beer",
+      "Tea",
+      "Soda"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "How many hours are in a day?",
+    "options": [
+      "12",
+      "36",
+      "24",
+      "48"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which country is both a continent and a country?",
+    "options": [
+      "Canada",
+      "Russia",
+      "Australia",
+      "United States"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In 'Harry Potter', what is Harry's pet owl named?",
+    "options": [
+      "Crookshanks",
+      "Hedwig",
+      "Scabbers",
+      "Fang"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the value of 5 factorial (5!)?",
+    "options": [
+      "60",
+      "24",
+      "120",
+      "100"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What does 'PDF' stand for?",
+    "options": [
+      "Personal Data File",
+      "Portable Document Format",
+      "Printable Document Format",
+      "Public Document Format"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who directed the movie 'Jurassic Park'?",
+    "options": [
+      "James Cameron",
+      "George Lucas",
+      "Steven Spielberg",
+      "Peter Jackson"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which country is not a permanent member of the UN Security Council?",
+    "options": [
+      "United States",
+      "China",
+      "France",
+      "Germany"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What is the stock market index of the United States?",
+    "options": [
+      "FTSE 100",
+      "Dow Jones Industrial Average",
+      "Nikkei 225",
+      "DAX"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the national animal of China?",
+    "options": [
+      "Dragon",
+      "Tiger",
+      "Panda",
+      "Crane"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the name of the Earth's natural satellite?",
+    "options": [
+      "Sun",
+      "Venus",
+      "Moon",
+      "Mars"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": [
+      "Monaco",
+      "San Marino",
+      "Vatican City",
+      "Liechtenstein"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the sum of angles in a triangle?",
+    "options": [
+      "90 degrees",
+      "270 degrees",
+      "180 degrees",
+      "360 degrees"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What year was Google founded?",
+    "options": [
+      "1996",
+      "2000",
+      "1998",
+      "2002"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the national anthem of the United States?",
+    "options": [
+      "God Save the Queen",
+      "America the Beautiful",
+      "The Star-Spangled Banner",
+      "My Country 'Tis of Thee"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the political system of the United Kingdom?",
+    "options": [
+      "Republic",
+      "Federal Republic",
+      "Constitutional Monarchy",
+      "Absolute Monarchy"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the opposite of a deficit?",
+    "options": [
+      "Debt",
+      "Profit",
+      "Surplus",
+      "Loss"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which festival is known as the Festival of Lights?",
+    "options": [
+      "Christmas",
+      "Hanukkah",
+      "Diwali",
+      "Easter"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "How many branches are there in the U.S. government?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What instrument has 88 keys?",
+    "options": [
+      "Guitar",
+      "Violin",
+      "Drum",
+      "Piano"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Who was the first female prime minister of the United Kingdom?",
+    "options": [
+      "Theresa May",
+      "Angela Merkel",
+      "Margaret Thatcher",
+      "Indira Gandhi"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the supreme law of the United States?",
+    "options": [
+      "Declaration of Independence",
+      "Bill of Rights",
+      "Constitution",
+      "Magna Carta"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the capital of the United States?",
+    "options": [
+      "New York",
+      "Los Angeles",
+      "Chicago",
+      "Washington D.C."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which protein, misfolded in prion diseases, is encoded by the PRNP gene and exists in a normal cellular form (PrP^C) and a pathogenic form (PrP^Sc)?",
+    "options": [
+      "Tau protein",
+      "Alpha-synuclein",
+      "Amyloid-beta",
+      "Prion protein"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "In the context of medieval European history, the 'Donation of Constantine' was later proved to be a forgery by which 15th-century scholar?",
+    "options": [
+      "Desiderius Erasmus",
+      "Lorenzo Valla",
+      "Marsilius of Padua",
+      "Nicholas of Cusa"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which topological invariant, defined for a closed oriented manifold, is an integer that in three dimensions is equal to the Euler characteristic?",
+    "options": [
+      "Betti number",
+      "Genus",
+      "Pontryagin class",
+      "Hirzebruch signature"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The 'Beksiński' style of dystopian surrealism is most associated with which country's 20th-century art scene?",
+    "options": [
+      "Czechoslovakia",
+      "Hungary",
+      "Poland",
+      "Yugoslavia"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the name of the paradoxical phenomenon in fluid dynamics where a rotating cylinder immersed in a flowing fluid experiences a force perpendicular to both the flow and rotation axis?",
+    "options": [
+      "Coandă effect",
+      "Venturi effect",
+      "Magnus effect",
+      "Bernoulli effect"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which 12th-century Sephardic Jewish philosopher authored 'The Guide for the Perplexed'?",
+    "options": [
+      "Saadia Gaon",
+      "Maimonides",
+      "Judah Halevi",
+      "Hasdai Crescas"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In the field of cryptography, what is the common name for the problem of factoring large integers that underpins the security of RSA encryption?",
+    "options": [
+      "Discrete logarithm problem",
+      "Subset sum problem",
+      "Integer factorization problem",
+      "Elliptic curve discrete logarithm problem"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which extinct species of hominin, discovered in the Denisova Cave in Siberia, is known primarily from genomic evidence and a few fragmentary fossils?",
+    "options": [
+      "Homo floresiensis",
+      "Homo naledi",
+      "Denisovan",
+      "Homo heidelbergensis"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'St. Gallen mafia' was an informal group within the College of Cardinals that advocated for reform and was influential before the 2013 election of which pope?",
+    "options": [
+      "Pope Benedict XVI",
+      "Pope Francis",
+      "Pope John Paul II",
+      "Pope John Paul I"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which theorem in social choice theory, proved by Kenneth Arrow, demonstrates the impossibility of designing a perfect ranked voting system?",
+    "options": [
+      "Condorcet's paradox",
+      "Arrow's impossibility theorem",
+      "Gibbard–Satterthwaite theorem",
+      "Nash equilibrium"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Pale of Settlement' was a region in the Russian Empire where Jews were permanently permitted to reside, established by which empress?",
+    "options": [
+      "Empress Anna",
+      "Empress Elizabeth",
+      "Catherine the Great",
+      "Empress Alexandra"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In enzymology, what term describes the phenomenon where binding of a substrate molecule to one active site of an allosteric enzyme increases the affinity of other active sites for substrate?",
+    "options": [
+      "Competitive inhibition",
+      "Cooperativity",
+      "Feedback inhibition",
+      "Michaelis-Menten kinetics"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which 17th-century Mughal emperor commissioned the 'Padshahnama', a chronicle of his reign considered a masterpiece of Mughal miniature painting?",
+    "options": [
+      "Jahangir",
+      "Shah Jahan",
+      "Aurangzeb",
+      "Bahadur Shah I"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Sokal affair' was a 1996 academic hoax that critiqued which broad intellectual movement?",
+    "options": [
+      "Logical positivism",
+      "Postmodernism",
+      "Structuralism",
+      "Pragmatism"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the name of the hypothetical subatomic particle proposed to explain the strong CP problem in quantum chromodynamics?",
+    "options": [
+      "Axion",
+      "Graviton",
+      "Tachyon",
+      "Magnetic monopole"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which 14th-century English mystic authored 'The Cloud of Unknowing', a work on Christian contemplative prayer?",
+    "options": [
+      "Julian of Norwich",
+      "Richard Rolle",
+      "Walter Hilton",
+      "Anonymous"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The 'Bouvet Island' dispute, concerning sovereignty over the world's most remote island, involved which three claimant nations historically?",
+    "options": [
+      "UK, Argentina, Chile",
+      "Norway, UK, South Africa",
+      "France, UK, Brazil",
+      "Australia, New Zealand, UK"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In the mathematical theory of partial differential equations, which inequality provides a fundamental estimate for solutions to elliptic equations?",
+    "options": [
+      "Sobolev inequality",
+      "Cauchy-Schwarz inequality",
+      "Poincaré inequality",
+      "Hölder's inequality"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Neue Slowenische Kunst' (NSK) art collective, known for its subversive use of totalitarian aesthetics, originated in which country?",
+    "options": [
+      "East Germany",
+      "Czechoslovakia",
+      "Yugoslavia",
+      "Hungary"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which complex biochemical cycle, occurring in the liver, describes the synthesis of glucose from non-carbohydrate precursors like lactate and amino acids?",
+    "options": [
+      "Krebs cycle",
+      "Calvin cycle",
+      "Cori cycle",
+      "Gluconeogenesis"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The 'Kapp Putsch' of 1920 was a failed coup attempt by right-wing freikorps units against which German government?",
+    "options": [
+      "Weimar Republic",
+      "Nazi Germany",
+      "German Empire",
+      "Provisional Government"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In astrophysics, what is the name of the process by which a rotating neutron star emits beams of electromagnetic radiation, observed as pulses?",
+    "options": [
+      "Synchrotron radiation",
+      "Cherenkov radiation",
+      "Pulsar emission",
+      "Hawking radiation"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which 16th-century Italian composer of the late Renaissance was particularly noted for his chromatic madrigals and is often considered a pioneer of tonal harmony?",
+    "options": [
+      "Giovanni Pierluigi da Palestrina",
+      "Carlo Gesualdo",
+      "Claudio Monteverdi",
+      "Orlande de Lassus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Malayan Union' proposal, which sparked significant nationalist opposition leading to the formation of the UMNO, was a post-WWII colonial plan of which power?",
+    "options": [
+      "France",
+      "Netherlands",
+      "Portugal",
+      "United Kingdom"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What term in phonetics describes a consonant sound produced with a double articulation, such as the voiceless labial-velar plosive [k͡p] found in some West African languages?",
+    "options": [
+      "Ejective",
+      "Implosive",
+      "Click consonant",
+      "Co-articulated consonant"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "In the context of the Catholic Church, the 'Rota Romana' is the highest appellate tribunal primarily dealing with what type of cases?",
+    "options": [
+      "Criminal cases against clergy",
+      "Marriage nullity cases",
+      "Doctrinal heresy cases",
+      "Canonization of saints"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Sverdrup balance' is a fundamental theoretical relationship in oceanography that describes the connection between wind stress curl and what?",
+    "options": [
+      "Deep water formation",
+      "Meridional overturning circulation",
+      "Western boundary currents",
+      "Ekman transport"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which pre-Columbian civilization, centered at Cahokia, built the largest earthen structure in the Americas north of Mexico, known as Monk's Mound?",
+    "options": [
+      "Ancestral Puebloans",
+      "Mississippian culture",
+      "Hopewell tradition",
+      "Adena culture"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The philosophical concept of 'haecceity', denoting the 'thismess' of an individual, is most closely associated with which medieval scholastic thinker?",
+    "options": [
+      "Thomas Aquinas",
+      "William of Ockham",
+      "John Duns Scotus",
+      "Boethius"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In the field of condensed matter physics, what is the name of the quasi-particle that is a quantized vortex in a superfluid?",
+    "options": [
+      "Polaron",
+      "Magnon",
+      "Anyon",
+      "Vortex filament"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "The 'Battle of Blue Waters' in 1362 resulted in the Grand Duchy of Lithuania breaking the dominance of the Golden Horde over which region?",
+    "options": [
+      "Crimea",
+      "Moldavia",
+      "Pontic steppe",
+      "Galicia-Volhynia"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which 20th-century artist, a key figure in the CoBrA movement, created the 'Theater of the World' series using intricate, maze-like lines?",
+    "options": [
+      "Karel Appel",
+      "Constant Nieuwenhuys",
+      "Asger Jorn",
+      "Pierre Alechinsky"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "In molecular biology, what is the name of the enzyme complex responsible for adding telomeric repeats to chromosome ends, thus maintaining genomic stability?",
+    "options": [
+      "DNA polymerase",
+      "Telomerase",
+      "Ligase",
+      "Topoisomerase"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Gujral Doctrine' was a set of five principles to guide foreign policy, formulated by a prime minister of which country?",
+    "options": [
+      "Pakistan",
+      "Bangladesh",
+      "Sri Lanka",
+      "India"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which mathematical structure, defined by a set and a binary operation satisfying closure, associativity, identity, and invertibility, is fundamental to abstract algebra?",
+    "options": [
+      "Ring",
+      "Field",
+      "Group",
+      "Monoid"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Nadir Shah invasion of the Mughal Empire' in 1739 resulted in the sacking of Delhi and the theft of which famous gem-encrusted throne?",
+    "options": [
+      "Throne of Jahangir",
+      "Peacock Throne",
+      "Sun Throne",
+      "Takht-e Tāvūs"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In jurisprudence, the 'Hart-Fuller debate' in the Harvard Law Review centered on the relationship between which two concepts?",
+    "options": [
+      "Law and economics",
+      "Law and morality",
+      "Law and society",
+      "Law and power"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which atmospheric optical phenomenon, caused by the scattering of sunlight by ice crystals, appears as a bright spot to the left or right of the sun?",
+    "options": [
+      "Sun dog",
+      "Halo",
+      "Green flash",
+      "Brocken spectre"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Phaistos Disc', discovered in Crete and dating to the Minoan Bronze Age, is notable for what unique characteristic?",
+    "options": [
+      "It is made of orichalcum",
+      "It contains a unique hieroglyphic script stamped, not inscribed",
+      "It is the oldest known map",
+      "It is a perfect astronomical calendar"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In the taxonomy of flowering plants, the 'APG IV system' classifies plants primarily based on what type of data?",
+    "options": [
+      "Morphological characteristics",
+      "Phylogenetic (molecular) data",
+      "Fossil record evidence",
+      "Biochemical properties"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Copenhagen interpretation' of quantum mechanics was primarily developed by Niels Bohr and which other physicist?",
+    "options": [
+      "Werner Heisenberg",
+      "Max Born",
+      "Wolfgang Pauli",
+      "Erwin Schrödinger"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which 19th-century British poet authored the dramatic monologue 'Childe Roland to the Dark Tower Came', later a key inspiration for Stephen King's 'Dark Tower' series?",
+    "options": [
+      "Alfred, Lord Tennyson",
+      "Robert Browning",
+      "Matthew Arnold",
+      "Gerard Manley Hopkins"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Bar Kokhba revolt' against Roman rule in the province of Judea was ultimately crushed by forces under which emperor?",
+    "options": [
+      "Trajan",
+      "Hadrian",
+      "Vespasian",
+      "Titus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In computer science, the 'ABA problem' is a subtle flaw that can affect lock-free algorithms in concurrent programming. What does 'ABA' refer to?",
+    "options": [
+      "A state transition pattern",
+      "An American banking association standard",
+      "A type of memory barrier",
+      "A cache coherency protocol"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Chinchorro culture' of northern Chile and southern Peru is notable for what distinctive archaeological practice dating back to 5000 BC?",
+    "options": [
+      "Building step pyramids",
+      "Creating the world's oldest known mummies",
+      "Domesticating the alpaca",
+      "Developing a system of knot-writing (quipu)"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which economic index, published by the German research institute Ifo, is a leading indicator for economic development in Germany based on a survey of business executives?",
+    "options": [
+      "DAX Index",
+      "Ifo Business Climate Index",
+      "ZEW Indicator",
+      "GfK Consumer Climate Index"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In the field of set theory, which hypothesis, proven to be independent of ZFC, states that there is no cardinality strictly between that of the integers and the real numbers?",
+    "options": [
+      "Axiom of choice",
+      "Generalized continuum hypothesis",
+      "Continuum hypothesis",
+      "Martin's axiom"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Ō�ei Rebellion', a long-running conflict against the authority of the Ashikaga shogunate, was led by which powerful daimyō family in 15th-century Japan?",
+    "options": [
+      "Uesugi clan",
+      "Ōuchi clan",
+      "Hōjō clan",
+      "Date clan"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the technical term for the surgical procedure that involves cutting the vagus nerve, historically used to treat peptic ulcer disease?",
+    "options": [
+      "Gastrectomy",
+      "Vagotomy",
+      "Pyloroplasty",
+      "Cholecystectomy"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Katherine Group' is a collection of five early Middle English devotional texts associated with which anchoress and mystic?",
+    "options": [
+      "Hildegard of Bingen",
+      "Julian of Norwich",
+      "Margery Kempe",
+      "Ancrene Wisse (though not a person, the text is associated)"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "In geology, the 'Wilson Cycle' describes the cyclical opening and closing of what?",
+    "options": [
+      "Fault lines",
+      "Ocean basins",
+      "Mantle plumes",
+      "Supercontinents"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Pig War' of 1859 was a confrontation between the United States and the British Empire over the boundary of which territory?",
+    "options": [
+      "Oregon Country",
+      "San Juan Islands",
+      "Alaska Panhandle",
+      "Red River Colony"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which 20th-century philosopher, a key figure in the Frankfurt School, developed the concept of the 'culture industry'?",
+    "options": [
+      "Theodor W. Adorno",
+      "Max Horkheimer",
+      "Herbert Marcuse",
+      "Jürgen Habermas"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In immunology, what is the name of the process by which immature B-cells that react strongly to self-antigens are eliminated in the bone marrow?",
+    "options": [
+      "Somatic hypermutation",
+      "Clonal selection",
+      "Negative selection",
+      "Affinity maturation"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Kievan Rus' Primary Chronicle attributes the invitation to the Varangian chieftain Rurik to rule over the Slavic tribes to which year, according to the traditional account?",
+    "options": [
+      "862 AD",
+      "882 AD",
+      "907 AD",
+      "945 AD"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which physical constant, approximately 1.380649 × 10^-23 J/K, relates the average kinetic energy of particles in a gas with temperature?",
+    "options": [
+      "Planck constant",
+      "Boltzmann constant",
+      "Avogadro constant",
+      "Gas constant"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Diadochi' were the rival successors and generals of which ancient Macedonian king?",
+    "options": [
+      "Philip II",
+      "Alexander the Great",
+      "Philip III Arrhidaeus",
+      "Alexander IV"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In the study of logic, which system extends propositional logic by adding operators for 'necessarily' and 'possibly', allowing reasoning about modality?",
+    "options": [
+      "Deontic logic",
+      "Temporal logic",
+      "Modal logic",
+      "Fuzzy logic"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Melkite Greek Catholic Church' is an Eastern Catholic church in full communion with Rome, whose historical patriarchal see is in which city?",
+    "options": [
+      "Alexandria",
+      "Antioch",
+      "Jerusalem",
+      "Constantinople"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the term in literary theory for a narrative device where the story begins in the middle of the action, rather than at the chronological beginning?",
+    "options": [
+      "Anachrony",
+      "In medias res",
+      "Peripeteia",
+      "Prolepsis"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Dreikaiserbund' (League of the Three Emperors) was an alliance in the late 19th century between Germany, Austria-Hungary, and which other empire?",
+    "options": [
+      "Ottoman Empire",
+      "Russian Empire",
+      "British Empire",
+      "Italian Empire"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In crystallography, which law states that the angles between equivalent faces of a crystal are constant?",
+    "options": [
+      "Law of Rational Indices",
+      "Law of Constancy of Interfacial Angles",
+      "Bragg's law",
+      "Bravais law"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which 9th-century Irish philosopher, known for his work 'Periphyseon' (On the Division of Nature), developed a complex Neoplatonic system?",
+    "options": [
+      "John Scotus Eriugena",
+      "Alcuin of York",
+      "Sedulius Scottus",
+      "Augustine of Hippo"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Bogomils', a dualistic Christian sect that influenced later Catharism, arose in the 10th century in which empire?",
+    "options": [
+      "Byzantine Empire",
+      "Holy Roman Empire",
+      "Bulgarian Empire",
+      "Serbian Empire"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In computational complexity theory, what is the class of problems that can be solved by a non-deterministic Turing machine in polynomial time?",
+    "options": [
+      "P",
+      "NP",
+      "NP-complete",
+      "NP-hard"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Ems telegram', a carefully edited dispatch, was the immediate pretext for which 19th-century war?",
+    "options": [
+      "Franco-Prussian War",
+      "Austro-Prussian War",
+      "Crimean War",
+      "Russo-Turkish War"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which hormone, secreted by the pineal gland, regulates sleep-wake cycles and is derived from the amino acid tryptophan?",
+    "options": [
+      "Serotonin",
+      "Melatonin",
+      "Cortisol",
+      "Dopamine"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Umayyad Caliphate' was overthrown in 750 AD by the Abbasid Revolution, culminating in the Battle of the Zab. Near which river was this battle fought?",
+    "options": [
+      "Tigris River",
+      "Euphrates River",
+      "Nile River",
+      "Great Zab River"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "In music theory, what is the term for a chord progression where the roots of the chords move by the interval of a fourth?",
+    "options": [
+      "Plagal progression",
+      "Circle progression",
+      "Falling fifths progression",
+      "Modal interchange"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Bureau of Military Affairs' (Shumiyuan) was a key institution for the administration of which empire during the Liao, Jin, and Yuan dynasties?",
+    "options": [
+      "Mongol Empire",
+      "Chinese Empire",
+      "Korean Empire",
+      "Tibetan Empire"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which geophysical phenomenon describes the slow, westward drift of the Earth's magnetic field?",
+    "options": [
+      "Geomagnetic reversal",
+      "Secular variation",
+      "Magnetic declination",
+      "Auroral oval"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Rashidun Caliphate' was succeeded by the Umayyad Caliphate after the First Fitna. Who was the first Umayyad caliph?",
+    "options": [
+      "Muawiya I",
+      "Yazid I",
+      "Abd al-Malik",
+      "Uthman ibn Affan"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In the philosophy of science, what term did Thomas Kuhn introduce to describe the set of practices that define a scientific discipline at a particular period?",
+    "options": [
+      "Research programme",
+      "Paradigm",
+      "Episteme",
+      "Falsificationism"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Kievan Cave Monastery' (Pechersk Lavra), a historic Orthodox Christian monastery, is located in which modern-day capital city?",
+    "options": [
+      "Moscow",
+      "Kyiv",
+      "Minsk",
+      "Warsaw"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which protein, encoded by the TP53 gene, functions as a tumor suppressor and is often called 'the guardian of the genome'?",
+    "options": [
+      "BRCA1",
+      "p53",
+      "Rb protein",
+      "ATM"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Coal Wars' in the United States, a series of labor conflicts, culminated in which 1921 battle considered the largest armed uprising since the Civil War?",
+    "options": [
+      "Battle of Blair Mountain",
+      "Ludlow Massacre",
+      "Haymarket affair",
+      "Pullman Strike"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In the study of ancient scripts, what is the name of the undeciphered writing system used by the Indus Valley Civilization?",
+    "options": [
+      "Indus script",
+      "Harappan script",
+      "Both Indus and Harappan script are correct",
+      "Proto-Dravidian script"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Sung dynasty' monetary policy included the world's first widespread use of paper money, known as what?",
+    "options": [
+      "Flying cash",
+      "Huizi",
+      "Jiaozi",
+      "Sycee"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which theorem in complex analysis states that every non-constant polynomial with complex coefficients has at least one complex root?",
+    "options": [
+      "Liouville's theorem",
+      "Fundamental theorem of algebra",
+      "Picard's theorem",
+      "Cauchy's integral theorem"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Albigensian Crusade' was directed against the Cathars in which region of France?",
+    "options": [
+      "Provence",
+      "Languedoc",
+      "Brittany",
+      "Aquitaine"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In neuroanatomy, what is the name of the white matter structure that connects the two cerebral hemispheres?",
+    "options": [
+      "Fornix",
+      "Corpus callosum",
+      "Internal capsule",
+      "Cingulum"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Dharmachakra Pravartana' refers to the first sermon given by the Buddha after his enlightenment, delivered at which location?",
+    "options": [
+      "Bodh Gaya",
+      "Kushinagar",
+      "Sarnath",
+      "Lumbini"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which 20th-century literary critic authored 'The Anxiety of Influence', proposing that poets struggle with the work of previous poets?",
+    "options": [
+      "Harold Bloom",
+      "Northrop Frye",
+      "Paul de Man",
+      "Geoffrey Hartman"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Bennett plateau' is a feature observed in the energy spectrum of cosmic rays at approximately what energy?",
+    "options": [
+      "1 TeV",
+      "1 PeV",
+      "1 EeV",
+      "1 ZeV"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In the context of the Cold War, the 'Hallstein Doctrine' was a key foreign policy stance of which country?",
+    "options": [
+      "East Germany",
+      "West Germany",
+      "United States",
+      "Soviet Union"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which mathematical object, a four-dimensional analogue of a polyhedron, has 120 dodecahedral cells and is one of the six convex regular polychora?",
+    "options": [
+      "Tesseract",
+      "120-cell",
+      "24-cell",
+      "600-cell"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Dzungar genocide' in the 18th century, ordered by the Qianlong Emperor, aimed to eliminate which Mongol group from the region of Xinjiang?",
+    "options": [
+      "Khalkha",
+      "Oirats",
+      "Chahar",
+      "Buryats"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In linguistics, what is the term for a speech sound that is a combination of a stop followed by a fricative, such as the 'ch' in 'chip'?",
+    "options": [
+      "Affricate",
+      "Approximant",
+      "Flap",
+      "Trill"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Chatham House Rule', formulated in 1927, is designed to regulate what?",
+    "options": [
+      "Parliamentary debate",
+      "Academic citation",
+      "Confidentiality in meetings",
+      "International treaties"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which theoretical framework in international relations, associated with scholars like Alexander Wendt, emphasizes the role of ideas, norms, and identities in shaping state behavior?",
+    "options": [
+      "Realism",
+      "Liberalism",
+      "Constructivism",
+      "Marxism"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Great Comet of 1577', observed by Tycho Brahe, provided key evidence against which Aristotelian celestial model?",
+    "options": [
+      "Geocentric model",
+      "Existence of celestial spheres",
+      "Quintessence as a perfect substance",
+      "The moon's influence on tides"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In endocrinology, what is the name of the hormone secreted by the parafollicular cells (C cells) of the thyroid gland, which lowers blood calcium levels?",
+    "options": [
+      "Parathyroid hormone",
+      "Calcitonin",
+      "Thyroxine",
+      "Triiodothyronine"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Kalmar Union' was a personal union that joined the kingdoms of Denmark, Norway, and Sweden under a single monarch. When was it formally established?",
+    "options": [
+      "1397",
+      "1448",
+      "1523",
+      "1536"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which principle in fluid dynamics, formulated by Daniel Bernoulli, states that an increase in the speed of a fluid occurs simultaneously with a decrease in pressure?",
+    "options": [
+      "Bernoulli's principle",
+      "Pascal's principle",
+      "Archimedes' principle",
+      "Venturi effect"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Moscow–Washington hotline', established after the Cuban Missile Crisis, originally used which technology for communication?",
+    "options": [
+      "Telephone",
+      "Teleprinter (Telex)",
+      "Satellite link",
+      "Encrypted radio"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In abstract algebra, a 'simple group' is a nontrivial group whose only normal subgroups are the trivial group and what?",
+    "options": [
+      "The group itself",
+      "A cyclic subgroup",
+      "The center of the group",
+      "The commutator subgroup"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Battle of Myeongnyang' in 1597, where Admiral Yi Sun-sin's 13 ships defeated a much larger Japanese fleet, took place in which strait?",
+    "options": [
+      "Tsushima Strait",
+      "Korea Strait",
+      "Myeongnyang Strait",
+      "Cheju Strait"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which 20th-century architect designed the 'Chapel of Notre Dame du Haut' in Ronchamp, France, a landmark of expressionist architecture?",
+    "options": [
+      "Le Corbusier",
+      "Frank Lloyd Wright",
+      "Oscar Niemeyer",
+      "Alvar Aalto"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In molecular genetics, what is the term for a sequence of DNA that can change its position within the genome, sometimes creating mutations?",
+    "options": [
+      "Intron",
+      "Exon",
+      "Transposon",
+      "Retrotransposon"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Girondins' were a political faction during the French Revolution named after a department in which region of France?",
+    "options": [
+      "Brittany",
+      "Gironde",
+      "Île-de-France",
+      "Provence"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which psychological phenomenon describes the tendency for individuals to exert less effort when working in a group than when working alone?",
+    "options": [
+      "Bystander effect",
+      "Social loafing",
+      "Groupthink",
+      "Diffusion of responsibility"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Treaty of Zuhab' (1639) established the border between which two empires, a frontier that largely corresponds to the modern Iran–Iraq border?",
+    "options": [
+      "Ottoman and Safavid",
+      "Ottoman and Mughal",
+      "Safavid and Russian",
+      "Mughal and Safavid"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In the field of optics, what is the name of the defect in a lens or mirror that causes it to focus light from different planes at different points?",
+    "options": [
+      "Chromatic aberration",
+      "Spherical aberration",
+      "Astigmatism",
+      "Coma"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which 19th-century British novelist wrote 'The Way We Live Now', a satire of Victorian society and its financial speculation?",
+    "options": [
+      "Anthony Trollope",
+      "Charles Dickens",
+      "William Makepeace Thackeray",
+      "George Eliot"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Barcelona Disputation' of 1263 was a formal debate between Christian theologian Paul Christian and which Jewish scholar?",
+    "options": [
+      "Nachmanides",
+      "Maimonides",
+      "Rashi",
+      "Abraham ibn Ezra"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is the name of the enzyme that catalyzes the addition of a poly(A) tail to the 3' end of eukaryotic pre-mRNA?",
+    "options": [
+      "RNA polymerase II",
+      "Polyadenylate polymerase",
+      "Ribonuclease P",
+      "Spliceosome"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Principality of Theodoro', a final remnant of the Byzantine Empire, fell to the Ottomans in 1475. In which region was it located?",
+    "options": [
+      "Peloponnese",
+      "Crimea",
+      "Anatolia",
+      "Cyprus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In game theory, what is the name of the equilibrium concept where no player can benefit by unilaterally changing strategy, assuming others' strategies remain unchanged?",
+    "options": [
+      "Pareto efficiency",
+      "Nash equilibrium",
+      "Schelling point",
+      "Minimax"
+    ],
+    "correct": 1
+  }
+]

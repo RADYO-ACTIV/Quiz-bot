@@ -1,0 +1,1022 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Paris",
+      "Madrid",
+      "Rome"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Jupiter"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Michelangelo"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Polar Bear"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In what year did World War II end?",
+    "options": [
+      "1944",
+      "1945",
+      "1946",
+      "1943"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": [
+      "China",
+      "South Korea",
+      "Japan",
+      "Thailand"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Go",
+      "Gd",
+      "Au",
+      "Ag"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "options": [
+      "Tomato",
+      "Avocado",
+      "Onion",
+      "Pepper"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "How many continents are there?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which language is spoken in Brazil?",
+    "options": [
+      "Spanish",
+      "Portuguese",
+      "French",
+      "English"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Platinum"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who is known as the father of computers?",
+    "options": [
+      "Alan Turing",
+      "Charles Babbage",
+      "Bill Gates",
+      "Steve Jobs"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In which sport would you perform a slam dunk?",
+    "options": [
+      "Tennis",
+      "Basketball",
+      "Soccer",
+      "Baseball"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Montreal",
+      "Ottawa"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who was the first man to walk on the moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Michael Collins"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": [
+      "Monaco",
+      "Vatican City",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which element is essential for combustion?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Hydrogen",
+      "Carbon Dioxide"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "options": [
+      "Amazon River",
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which famous scientist developed the theory of relativity?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Stephen Hawking",
+      "Nikola Tesla"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": [
+      "Won",
+      "Yuan",
+      "Yen",
+      "Ringgit"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Who wrote the 'Harry Potter' book series?",
+    "options": [
+      "J.R.R. Tolkien",
+      "J.K. Rowling",
+      "George R.R. Martin",
+      "C.S. Lewis"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "How many players are in a soccer team?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "options": [
+      "Lion",
+      "Cheetah",
+      "Leopard",
+      "Gazelle"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "options": [
+      "Spain",
+      "France",
+      "Italy",
+      "United Kingdom"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the square root of 64?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which year did the Titanic sink?",
+    "options": [
+      "1910",
+      "1912",
+      "1914",
+      "1916"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the main ingredient in bread?",
+    "options": [
+      "Corn",
+      "Rice",
+      "Wheat",
+      "Potato"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who is the author of 'The Great Gatsby'?",
+    "options": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "Mark Twain",
+      "John Steinbeck"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "options": [
+      "Alexandria",
+      "Giza",
+      "Cairo",
+      "Luxor"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which is the largest desert in the world?",
+    "options": [
+      "Sahara Desert",
+      "Arabian Desert",
+      "Gobi Desert",
+      "Antarctic Desert"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "options": [
+      "H2O2",
+      "CO2",
+      "H2O",
+      "NaCl"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Alexander Fleming",
+      "Marie Curie",
+      "Louis Pasteur",
+      "Joseph Lister"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which organ pumps blood throughout the body?",
+    "options": [
+      "Lungs",
+      "Heart",
+      "Liver",
+      "Brain"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Venice",
+      "Milan",
+      "Rome",
+      "Florence"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "How many time zones are there in Russia?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which is the largest island in the world?",
+    "options": [
+      "Borneo",
+      "Greenland",
+      "Madagascar",
+      "New Guinea"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Barcelona",
+      "Seville",
+      "Madrid",
+      "Valencia"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which country is the largest by area?",
+    "options": [
+      "USA",
+      "China",
+      "Canada",
+      "Russia"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "options": [
+      "K2",
+      "Mount Everest",
+      "Kangchenjunga",
+      "Makalu"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who painted 'The Starry Night'?",
+    "options": [
+      "Claude Monet",
+      "Vincent van Gogh",
+      "Edvard Munch",
+      "Salvador Dali"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Munich",
+      "Hamburg",
+      "Frankfurt",
+      "Berlin"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which planet is known for its rings?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "options": [
+      "90°C",
+      "100°C",
+      "110°C",
+      "120°C"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "options": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is the capital of China?",
+    "options": [
+      "Shanghai",
+      "Beijing",
+      "Guangzhou",
+      "Shenzhen"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which is the largest ocean animal?",
+    "options": [
+      "Great White Shark",
+      "Blue Whale",
+      "Giant Squid",
+      "Killer Whale"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "How many bones are in the adult human body?",
+    "options": [
+      "206",
+      "210",
+      "300",
+      "150"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which country is famous for the pyramids?",
+    "options": [
+      "Greece",
+      "Egypt",
+      "Mexico",
+      "Peru"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Mumbai",
+      "Delhi",
+      "Kolkata",
+      "Chennai"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which planet is the hottest?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the main language spoken in Mexico?",
+    "options": [
+      "Portuguese",
+      "Spanish",
+      "French",
+      "English"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who is the Greek god of the sea?",
+    "options": [
+      "Zeus",
+      "Poseidon",
+      "Hades",
+      "Apollo"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "options": [
+      "Johannesburg",
+      "Cape Town",
+      "Pretoria",
+      "Durban"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which is the smallest planet in our solar system?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Pluto"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the chemical symbol for sodium?",
+    "options": [
+      "So",
+      "Na",
+      "Sd",
+      "Ni"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "options": [
+      "Buenos Aires",
+      "Santiago",
+      "Lima",
+      "Brasilia"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which is the longest bone in the human body?",
+    "options": [
+      "Tibia",
+      "Femur",
+      "Humerus",
+      "Fibula"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "options": [
+      "St. Petersburg",
+      "Moscow",
+      "Novosibirsk",
+      "Yekaterinburg"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which country is known as the Land of a Thousand Lakes?",
+    "options": [
+      "Sweden",
+      "Norway",
+      "Finland",
+      "Canada"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the square of 9?",
+    "options": [
+      "72",
+      "81",
+      "90",
+      "99"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": [
+      "Charlotte Brontë",
+      "Jane Austen",
+      "Emily Brontë",
+      "George Eliot"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "options": [
+      "Phuket",
+      "Chiang Mai",
+      "Bangkok",
+      "Pattaya"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which is the largest bird in the world?",
+    "options": [
+      "Emu",
+      "Ostrich",
+      "Albatross",
+      "Cassowary"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the chemical symbol for iron?",
+    "options": [
+      "Ir",
+      "Fe",
+      "In",
+      "Au"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Ada Lovelace",
+      "Dorothy Hodgkin"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasília",
+      "Salvador"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which country is the largest producer of coffee?",
+    "options": [
+      "Colombia",
+      "Vietnam",
+      "Brazil",
+      "Ethiopia"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "How many stripes are on the American flag?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the capital of Greece?",
+    "options": [
+      "Thessaloniki",
+      "Athens",
+      "Patras",
+      "Heraklion"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which planet is the largest?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Saturn",
+      "Neptune"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the main ingredient in sushi?",
+    "options": [
+      "Seaweed",
+      "Fish",
+      "Rice",
+      "Vegetables"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of Turkey?",
+    "options": [
+      "Istanbul",
+      "Ankara",
+      "Izmir",
+      "Antalya"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which is the largest lake in the world?",
+    "options": [
+      "Lake Superior",
+      "Caspian Sea",
+      "Lake Victoria",
+      "Lake Baikal"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the chemical symbol for potassium?",
+    "options": [
+      "Po",
+      "Pt",
+      "K",
+      "Ka"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who was the first president of the United States?",
+    "options": [
+      "Thomas Jefferson",
+      "George Washington",
+      "John Adams",
+      "Abraham Lincoln"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of Sweden?",
+    "options": [
+      "Gothenburg",
+      "Stockholm",
+      "Malmo",
+      "Uppsala"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which country is home to the kangaroo?",
+    "options": [
+      "New Zealand",
+      "South Africa",
+      "Australia",
+      "Argentina"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the freezing point of water?",
+    "options": [
+      "-10°C",
+      "0°C",
+      "10°C",
+      "32°C"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who wrote 'The Catcher in the Rye'?",
+    "options": [
+      "J.D. Salinger",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "options": [
+      "Busan",
+      "Seoul",
+      "Incheon",
+      "Daegu"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which gas is used by plants in photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "How many hearts does an octopus have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which country is the largest by population?",
+    "options": [
+      "USA",
+      "India",
+      "China",
+      "Indonesia"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "options": [
+      "Lagos",
+      "Abuja",
+      "Kano",
+      "Ibadan"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which planet is known as the Morning Star?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Jupiter"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the main ingredient in chocolate?",
+    "options": [
+      "Cocoa",
+      "Sugar",
+      "Milk",
+      "Vanilla"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Who wrote 'War and Peace'?",
+    "options": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Vladimir Nabokov"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of Saudi Arabia?",
+    "options": [
+      "Mecca",
+      "Riyadh",
+      "Jeddah",
+      "Medina"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which is the largest type of bear?",
+    "options": [
+      "Grizzly Bear",
+      "Polar Bear",
+      "Brown Bear",
+      "Black Bear"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "options": [
+      "Si",
+      "Sv",
+      "Ag",
+      "Au"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who is the current CEO of Tesla?",
+    "options": [
+      "Elon Musk",
+      "Jeff Bezos",
+      "Tim Cook",
+      "Mark Zuckerberg"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is the capital of Peru?",
+    "options": [
+      "Lima",
+      "Cusco",
+      "Arequipa",
+      "Trujillo"
+    ],
+    "correct": 0
+  }
+]

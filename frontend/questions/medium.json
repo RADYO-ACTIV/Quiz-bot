@@ -1,0 +1,1052 @@
+[
+  {
+    "question": "Which physicist developed the theory of general relativity?",
+    "options": [
+      "Isaac Newton",
+      "Niels Bohr",
+      "Albert Einstein",
+      "Stephen Hawking"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What does the acronym 'HTTP' stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "HyperText Transmission Protocol",
+      "High Transfer Text Protocol",
+      "Hyper Transfer Text Protocol"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In which year did the Berlin Wall fall?",
+    "options": [
+      "1987",
+      "1988",
+      "1989",
+      "1990"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who wrote the novel 'One Hundred Years of Solitude'?",
+    "options": [
+      "Pablo Neruda",
+      "Isabel Allende",
+      "Miguel de Cervantes",
+      "Gabriel García Márquez"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which element has the highest atomic number found in significant quantities in nature?",
+    "options": [
+      "Uranium",
+      "Plutonium",
+      "Thorium",
+      "Radium"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Bermuda Triangle' is primarily located within which ocean?",
+    "options": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In computing, what does 'GUI' stand for?",
+    "options": [
+      "Graphical User Interface",
+      "General User Interface",
+      "Graphical Unit Interface",
+      "General Unit Interface"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": [
+      "Rosalind Franklin",
+      "Ada Lovelace",
+      "Marie Curie",
+      "Lise Meitner"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which mountain range separates Europe from Asia?",
+    "options": [
+      "The Alps",
+      "The Himalayas",
+      "The Urals",
+      "The Andes"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the capital of New Zealand?",
+    "options": [
+      "Auckland",
+      "Christchurch",
+      "Wellington",
+      "Hamilton"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who composed the famous ballet 'Swan Lake'?",
+    "options": [
+      "Igor Stravinsky",
+      "Pyotr Ilyich Tchaikovsky",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the chemical symbol for lead?",
+    "options": [
+      "Le",
+      "Ld",
+      "Pb",
+      "Pl"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": [
+      "China",
+      "United Kingdom",
+      "Brazil",
+      "Russia"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who was the first person to circumnavigate the globe?",
+    "options": [
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "Ferdinand Magellan's expedition",
+      "James Cook"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the largest internal organ in the human body?",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Liver",
+      "Brain"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In which literary work would you find the character Jay Gatsby?",
+    "options": [
+      "The Catcher in the Rye",
+      "To Kill a Mockingbird",
+      "The Great Gatsby",
+      "Moby-Dick"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the primary gas found in natural gas?",
+    "options": [
+      "Propane",
+      "Butane",
+      "Methane",
+      "Ethane"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which programming language was created by Guido van Rossum?",
+    "options": [
+      "Ruby",
+      "Python",
+      "Java",
+      "C++"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Treaty of Versailles' officially ended which major conflict?",
+    "options": [
+      "World War I",
+      "World War II",
+      "The Franco-Prussian War",
+      "The Napoleonic Wars"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "options": [
+      "Leonardo da Vinci",
+      "Raphael",
+      "Donatello",
+      "Michelangelo"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What is the largest desert in Asia?",
+    "options": [
+      "Gobi Desert",
+      "Arabian Desert",
+      "Karakum Desert",
+      "Thar Desert"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which planet has the most extensive ring system?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What does the 'C' stand for in the programming language 'C++'?",
+    "options": [
+      "Computer",
+      "Code",
+      "It is the letter after B",
+      "There is no specific meaning"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Who was the British Prime Minister during most of World War II?",
+    "options": [
+      "Neville Chamberlain",
+      "Winston Churchill",
+      "Clement Attlee",
+      "Anthony Eden"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which Shakespeare play features the character Shylock?",
+    "options": [
+      "Hamlet",
+      "The Merchant of Venice",
+      "Othello",
+      "Macbeth"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the most abundant gas in the Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which company developed the Android operating system?",
+    "options": [
+      "Google",
+      "Apple",
+      "Microsoft",
+      "Amazon"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The Great Wall of China was primarily built to protect against invasions from which group?",
+    "options": [
+      "Mongols",
+      "Huns",
+      "Japanese",
+      "Manchus"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Who wrote the dystopian novel '1984'?",
+    "options": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the SI unit of electric current?",
+    "options": [
+      "Volt",
+      "Watt",
+      "Ampere",
+      "Ohm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In what year was the first iPhone released?",
+    "options": [
+      "2005",
+      "2006",
+      "2007",
+      "2008"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which U.S. state is known as the 'Sunshine State'?",
+    "options": [
+      "California",
+      "Florida",
+      "Texas",
+      "Arizona"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who discovered the structure of DNA?",
+    "options": [
+      "Rosalind Franklin",
+      "James Watson and Francis Crick",
+      "Linus Pauling",
+      "Gregor Mendel"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The film 'Parasite' won the Oscar for Best Picture in which year?",
+    "options": [
+      "2018",
+      "2019",
+      "2020",
+      "2021"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the capital of Iceland?",
+    "options": [
+      "Oslo",
+      "Helsinki",
+      "Reykjavik",
+      "Stockholm"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "In Greek mythology, who is the king of the gods?",
+    "options": [
+      "Poseidon",
+      "Hades",
+      "Zeus",
+      "Apollo"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which vitamin is produced when the human skin is exposed to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Reference Link",
+      "Uniform Reference Locator",
+      "Universal Resource Locator"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Manhattan Project' was focused on developing what?",
+    "options": [
+      "The first computer",
+      "The atomic bomb",
+      "Radar technology",
+      "Penicillin"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who wrote the play 'A Streetcar Named Desire'?",
+    "options": [
+      "Arthur Miller",
+      "Eugene O'Neill",
+      "Tennessee Williams",
+      "Samuel Beckett"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the largest species of penguin?",
+    "options": [
+      "King Penguin",
+      "Emperor Penguin",
+      "Gentoo Penguin",
+      "Adélie Penguin"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which planet is known for having a 'Great Red Spot'?",
+    "options": [
+      "Mars",
+      "Jupiter",
+      "Saturn",
+      "Neptune"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In computing, what is 'RAM' an acronym for?",
+    "options": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Rapid Access Memory",
+      "Random Active Memory"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Renaissance' period began in which country?",
+    "options": [
+      "France",
+      "England",
+      "Germany",
+      "Italy"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Who is the author of 'The Hobbit'?",
+    "options": [
+      "C.S. Lewis",
+      "J.R.R. Tolkien",
+      "J.K. Rowling",
+      "George R.R. Martin"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the chemical symbol for potassium?",
+    "options": [
+      "Po",
+      "Pt",
+      "K",
+      "Ka"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which social media platform was originally called 'TheFacebook'?",
+    "options": [
+      "Twitter",
+      "Instagram",
+      "Facebook",
+      "LinkedIn"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Cold War' was primarily a conflict between which two superpowers?",
+    "options": [
+      "USA and China",
+      "USA and USSR",
+      "UK and Germany",
+      "France and Russia"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In which novel would you find the characters Pip and Estella?",
+    "options": [
+      "David Copperfield",
+      "Oliver Twist",
+      "Great Expectations",
+      "A Tale of Two Cities"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the hardest known natural material?",
+    "options": [
+      "Quartz",
+      "Topaz",
+      "Diamond",
+      "Corundum"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What does 'JPEG' stand for in digital imaging?",
+    "options": [
+      "Joint Photographic Experts Group",
+      "Jumbled Picture Encoding Graphics",
+      "Joint Picture Encoding Group",
+      "Jumbled Photographic Experts Graphics"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Who was the first emperor of Rome?",
+    "options": [
+      "Julius Caesar",
+      "Augustus",
+      "Tiberius",
+      "Nero"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which artist is famous for his 'Campbell's Soup Cans' painting?",
+    "options": [
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Jackson Pollock",
+      "Andy Warhol"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "What is the deepest part of the world's oceans?",
+    "options": [
+      "Mariana Trench",
+      "Puerto Rico Trench",
+      "Java Trench",
+      "Tonga Trench"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which element is a liquid at room temperature?",
+    "options": [
+      "Bromine",
+      "Mercury",
+      "Gallium",
+      "Both Bromine and Mercury"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which company created the 'Windows' operating system?",
+    "options": [
+      "Apple",
+      "Microsoft",
+      "IBM",
+      "Google"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Magna Carta' was signed in which century?",
+    "options": [
+      "11th",
+      "12th",
+      "13th",
+      "14th"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who wrote the epic poem 'Paradise Lost'?",
+    "options": [
+      "John Donne",
+      "Geoffrey Chaucer",
+      "John Milton",
+      "William Blake"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What causes the Earth's seasons?",
+    "options": [
+      "The changing distance from the Sun",
+      "The tilt of Earth's axis",
+      "Solar flares",
+      "The Moon's orbit"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In what year was Google founded?",
+    "options": [
+      "1996",
+      "1997",
+      "1998",
+      "1999"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which African country was formerly known as Abyssinia?",
+    "options": [
+      "Ethiopia",
+      "Sudan",
+      "Kenya",
+      "Tanzania"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "options": [
+      "Bessie Coleman",
+      "Harriet Quimby",
+      "Amelia Earhart",
+      "Jacqueline Cochran"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the primary setting of the TV series 'Friends'?",
+    "options": [
+      "Los Angeles",
+      "Boston",
+      "New York City",
+      "Chicago"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "options": [
+      "Si",
+      "Sv",
+      "Ag",
+      "Au"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which search engine was originally called 'BackRub'?",
+    "options": [
+      "Yahoo",
+      "Bing",
+      "Google",
+      "Ask Jeeves"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Battle of Hastings' took place in which year?",
+    "options": [
+      "1066",
+      "1215",
+      "1346",
+      "1485"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Who wrote the novel 'The Handmaid's Tale'?",
+    "options": [
+      "Ursula K. Le Guin",
+      "Margaret Atwood",
+      "Octavia Butler",
+      "Doris Lessing"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the smallest country in the world by area?",
+    "options": [
+      "Monaco",
+      "San Marino",
+      "Liechtenstein",
+      "Vatican City"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which planet rotates on its side?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Uranus",
+      "Neptune"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What does 'SQL' stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "System Query Language"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Spanish Flu' pandemic occurred around which time?",
+    "options": [
+      "1890s",
+      "1910s",
+      "1930s",
+      "1950s"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who is the author of 'The Canterbury Tales'?",
+    "options": [
+      "Geoffrey Chaucer",
+      "William Langland",
+      "John Gower",
+      "Thomas Malory"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is the most abundant element in the Earth's crust?",
+    "options": [
+      "Silicon",
+      "Aluminum",
+      "Iron",
+      "Oxygen"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which social media platform has a character limit of 280 per post?",
+    "options": [
+      "Facebook",
+      "Instagram",
+      "Twitter",
+      "LinkedIn"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The 'Hundred Years' War' was primarily between which two countries?",
+    "options": [
+      "England and France",
+      "Spain and Portugal",
+      "Germany and Italy",
+      "Russia and Poland"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In the Harry Potter series, what is the name of Harry's owl?",
+    "options": [
+      "Errol",
+      "Pigwidgeon",
+      "Hedwig",
+      "Crookshanks"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which gas is primarily responsible for global warming?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Helium"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What does 'AI' commonly stand for in technology?",
+    "options": [
+      "Automated Intelligence",
+      "Artificial Intelligence",
+      "Advanced Interface",
+      "Automated Interface"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Industrial Revolution' began in which country?",
+    "options": [
+      "France",
+      "United States",
+      "Germany",
+      "Great Britain"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Who wrote the play 'Death of a Salesman'?",
+    "options": [
+      "Tennessee Williams",
+      "Arthur Miller",
+      "Eugene O'Neill",
+      "Edward Albee"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the largest island in the Mediterranean Sea?",
+    "options": [
+      "Sardinia",
+      "Sicily",
+      "Crete",
+      "Cyprus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star'?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Jupiter"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In computing, what does 'CPU' stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Processing Unit",
+      "Central Program Unit",
+      "Computer Program Unit"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Mau Mau Uprising' was an anti-colonial revolt in which country?",
+    "options": [
+      "South Africa",
+      "Nigeria",
+      "Kenya",
+      "Algeria"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Who wrote the novel 'The Grapes of Wrath'?",
+    "options": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "options": [
+      "300,000 km/s",
+      "150,000 km/s",
+      "450,000 km/s",
+      "1,000,000 km/s"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Which company developed the 'Java' programming language?",
+    "options": [
+      "Microsoft",
+      "Sun Microsystems",
+      "IBM",
+      "Oracle"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Berlin Conference' of 1884-85 primarily dealt with the colonization of which continent?",
+    "options": [
+      "Asia",
+      "Africa",
+      "South America",
+      "Europe"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In George Orwell's 'Animal Farm', what type of animal is Napoleon?",
+    "options": [
+      "Horse",
+      "Pig",
+      "Dog",
+      "Sheep"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is the name of the galaxy that contains our Solar System?",
+    "options": [
+      "Andromeda Galaxy",
+      "Whirlpool Galaxy",
+      "Milky Way",
+      "Triangulum Galaxy"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What does 'VPN' stand for?",
+    "options": [
+      "Virtual Private Network",
+      "Very Private Network",
+      "Virtual Public Network",
+      "Verified Private Network"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'Cuban Missile Crisis' occurred during the presidency of which U.S. leader?",
+    "options": [
+      "Dwight Eisenhower",
+      "John F. Kennedy",
+      "Lyndon Johnson",
+      "Richard Nixon"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who wrote the novel 'The Picture of Dorian Gray'?",
+    "options": [
+      "Bram Stoker",
+      "H.G. Wells",
+      "Oscar Wilde",
+      "Arthur Conan Doyle"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which continent has the highest population?",
+    "options": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "North America"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the chemical symbol for tungsten?",
+    "options": [
+      "Tu",
+      "Tn",
+      "W",
+      "Tg"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Which company created the 'iPhone'?",
+    "options": [
+      "Samsung",
+      "Apple",
+      "Google",
+      "Microsoft"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The 'Battle of the Bulge' was a major battle during which war?",
+    "options": [
+      "World War I",
+      "World War II",
+      "Korean War",
+      "Vietnam War"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Who is the author of the 'Foundation' series of science fiction novels?",
+    "options": [
+      "Arthur C. Clarke",
+      "Robert A. Heinlein",
+      "Isaac Asimov",
+      "Frank Herbert"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "In computing, what does 'HTML' stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "HighText Machine Language",
+      "HyperTransfer Markup Language",
+      "HighTransfer Machine Language"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The 'French Revolution' began in which year?",
+    "options": [
+      "1776",
+      "1789",
+      "1799",
+      "1812"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "In J.R.R. Tolkien's legendarium, who forged the One Ring?",
+    "options": [
+      "Sauron",
+      "Saruman",
+      "Gandalf",
+      "Elrond"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "What is the primary component of natural gas?",
+    "options": [
+      "Ethane",
+      "Propane",
+      "Butane",
+      "Methane"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which social media platform is known for its short-form video content?",
+    "options": [
+      "Facebook",
+      "Instagram",
+      "TikTok",
+      "Snapchat"
+    ],
+    "correct": 2
+  }
+]
